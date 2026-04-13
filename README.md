@@ -10,7 +10,7 @@
 
 ## Demo
 ![Demo](assets/quantum_advantage_dashboard.png)
-*Replace with a real screenshot or GIF of the project in action.*
+
 
 ## About
 This project explores the application of Quantum Computing to Sustainable Investing, specifically focusing on ESG-focused portfolio optimization. Developed during the GenQ Hackathon 2025, it utilizes the Quantum Approximate Optimization Algorithm (QAOA) to identify optimal asset allocations that maximize returns while prioritizing high ESG alpha exposure. By leveraging Quantinuum's quantum hardware and the `pytket` framework, the system demonstrates a measurable "Quantum Advantage" over traditional classical optimization techniques.
