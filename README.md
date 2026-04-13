@@ -2,7 +2,7 @@
 ### Elevating ESG Portfolio Optimization through Quantum Advantage
 
 [![Language](https://img.shields.io/github/languages/top/roivroberto/quantum-sustainable-investments)](https://github.com/roivroberto/quantum-sustainable-investments)
-[![Repo size](https://img.shields.io/github/repo-size/roivroberto/quantum-sustainable-investments)](https://github.com/roivroberto/quantum-sustainable-investments)
+[![Code size](https://img.shields.io/github/languages/code-size/roivroberto/quantum-sustainable-investments)](https://github.com/roivroberto/quantum-sustainable-investments)
 [![Last commit](https://img.shields.io/github/last-commit/roivroberto/quantum-sustainable-investments)](https://github.com/roivroberto/quantum-sustainable-investments)
 [![Stars](https://img.shields.io/github/stars/roivroberto/quantum-sustainable-investments?style=social)](https://github.com/roivroberto/quantum-sustainable-investments)
 [![Forks](https://img.shields.io/github/forks/roivroberto/quantum-sustainable-investments?style=social)](https://github.com/roivroberto/quantum-sustainable-investments)
