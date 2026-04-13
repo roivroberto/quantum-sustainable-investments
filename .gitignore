@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+out/
+*.pyc
+__pycache__/
+
+# Dependency folders
+node_modules/
+.venv/
+env/
+venv/
+vendor/
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Data & Notebooks (optional, but good to keep clean)
+.ipynb_checkpoints/

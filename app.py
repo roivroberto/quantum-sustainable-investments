@@ -1,6 +1,6 @@
 #########  THIS FILE WILL BE REPLACED  #########
 
-input_file_name = "input.json"
+input_file_name = "data/input.json"
 
 ################################################
 #########    DO NOT TOUCH FROM HERE    #########

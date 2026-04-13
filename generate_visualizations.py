@@ -113,7 +113,7 @@ def create_performance_comparison():
                 fontsize=9, ha='center')
     
     plt.tight_layout(pad=3.0)
-    plt.savefig('quantum_vs_classical_performance.png', dpi=300, bbox_inches='tight')
+    plt.savefig('assets/' + 'quantum_vs_classical_performance.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 def create_quantum_advantage_flowchart():
@@ -170,7 +170,7 @@ def create_quantum_advantage_flowchart():
                    arrowprops=dict(arrowstyle='->', lw=2, color='#34495E'))
     
     plt.tight_layout(pad=2.0)
-    plt.savefig('quantum_advantage_flowchart.png', dpi=300, bbox_inches='tight')
+    plt.savefig('assets/' + 'quantum_advantage_flowchart.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 def create_qubo_visualization():
@@ -215,7 +215,7 @@ def create_qubo_visualization():
     ax2.grid(True, alpha=0.3)
     
     plt.tight_layout(pad=2.0)
-    plt.savefig('qubo_visualization.png', dpi=300, bbox_inches='tight')
+    plt.savefig('assets/' + 'qubo_visualization.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 def create_quantum_circuit_diagram():
@@ -285,7 +285,7 @@ def create_quantum_circuit_diagram():
     ax.legend(handles=legend_elements, loc='upper right', bbox_to_anchor=(0.98, 0.98))
     
     plt.tight_layout(pad=2.0)
-    plt.savefig('quantum_circuit_diagram.png', dpi=300, bbox_inches='tight')
+    plt.savefig('assets/' + 'quantum_circuit_diagram.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 def create_esg_alpha_analysis():
@@ -354,7 +354,7 @@ def create_esg_alpha_analysis():
     ax4.grid(True, alpha=0.3)
     
     plt.tight_layout(pad=2.0)
-    plt.savefig('esg_alpha_analysis.png', dpi=300, bbox_inches='tight')
+    plt.savefig('assets/' + 'esg_alpha_analysis.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 def create_summary_dashboard():
@@ -449,7 +449,7 @@ def create_summary_dashboard():
                 bbox=dict(boxstyle="round,pad=0.5", facecolor='#E8F4FD', alpha=0.8))
     
     plt.tight_layout(pad=2.0)
-    plt.savefig('quantum_advantage_dashboard.png', dpi=300, bbox_inches='tight')
+    plt.savefig('assets/' + 'quantum_advantage_dashboard.png', dpi=300, bbox_inches='tight')
     plt.show()
 
 if __name__ == "__main__":

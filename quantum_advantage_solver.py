@@ -354,11 +354,11 @@ def evaluate_classical_portfolio(w, mu, Sigma, E=None, alpha=None):
 # Main execution
 if __name__ == "__main__":
     # Load data
-    with open('big_dataset.json', 'r') as f:
+    with open('data/big_dataset.json', 'r') as f:
         input_data = json.load(f)
     data = input_data['data']
 
-    alpha_scores_df = pd.read_csv('esg_alpha_scores_2023-12-29.csv')
+    alpha_scores_df = pd.read_csv('data/esg_alpha_scores_2023-12-29.csv')
     alpha_scores = dict(zip(alpha_scores_df['ticker'], alpha_scores_df['ESG_Alpha_Score']))
 
     # Preprocess data

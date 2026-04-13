@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 # Configuration
-JSON_FILE = "big_dataset.json"
-OUTPUT_FILE = "simulated_master_dataset.csv"
+JSON_FILE = "data/big_dataset.json"
+OUTPUT_FILE = "data/simulated_master_dataset.csv"
 MIN_HISTORY_DAYS = 60
 FINANCIAL_DRIFT_WEIGHT = 0.7
 PEER_DRIFT_WEIGHT = 0.2
