@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/github/license/roivroberto/quantum-sustainable-investments)](https://github.com/roivroberto/quantum-sustainable-investments)
 
 ## Demo
-![Demo](assets/quantum_advantage_dashboard.png)
+![Demo](assets/demo_dashboard.png)
 
 
 ## About
